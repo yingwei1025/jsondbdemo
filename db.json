@@ -1,0 +1,24 @@
+{
+	"Product": [{
+			"_id": 1,
+			"prod_name": "Product ABC",
+			"prod_desc": "This is des1c",
+			"prod_price": 23,
+			"updated_at": "2019-07-02"
+		},
+		{
+			"_id": 2,
+			"prod_name": "Product DEF",
+			"prod_desc": "This is desc2",
+			"prod_price": 24,
+			"updated_at": "2019-07-03"
+		},
+		{
+			"_id": 3,
+			"prod_name": "Product GHI",
+			"prod_desc": "This is desc3",
+			"prod_price": 25,
+			"updated_at": "2019-07-04"
+		}
+	]
+}
