@@ -17,8 +17,36 @@
 			"id": 3,
 			"prod_name": "Product GHI",
 			"prod_desc": "This is desc3",
-			"prod_price": 25,
+			"prod_price": 10.20,
 			"updated_at": "2019-07-04"
+		},
+		{
+			"id": 4,
+			"prod_name": "Product JKL",
+			"prod_desc": "This is desc4",
+			"prod_price": 95.22,
+			"updated_at": "2019-07-05"
+		},
+		{
+			"id": 5,
+			"prod_name": "Product MNO",
+			"prod_desc": "This is desc5",
+			"prod_price": 30,
+			"updated_at": "2019-07-06"
+		},
+		{
+			"id": 6,
+			"prod_name": "Product PQR",
+			"prod_desc": "This is desc6",
+			"prod_price": 25.4,
+			"updated_at": "2019-07-04"
+		},
+		{
+			"id": 7,
+			"prod_name": "Product STU",
+			"prod_desc": "This is desc7",
+			"prod_price": 12.34,
+			"updated_at": "2019-07-07"
 		}
 	]
 }
